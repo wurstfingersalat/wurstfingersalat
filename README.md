@@ -5,7 +5,7 @@ I discovered my love for web development over a decade ago and, since 2013, have
 I explored a wide range of technologies and frameworks. My Master’s studies further deepened my understanding, 
 and now I enjoy collaborating with clients and teams from anywhere in the world!
 
-## About Me
+
 ## About Me
 <ul>
     <li>👨‍💻 I'm a Freelance Full Stack Web Developer</li>
@@ -27,41 +27,35 @@ and now I enjoy collaborating with clients and teams from anywhere in the world!
 I’m always open to new freelance opportunities, collaborations, or simply tech conversations. 
 Let’s connect and build something great together!
 <div>
-    <a href="mailto:contact@konczewski.tech">
+    <a style="text-decoration:none" href="mailto:contact@konczewski.tech">
       <img style="height: 45px; vertical-align: middle"  src="https://img.icons8.com/?size=100&id=7rhqrO588QcU&format=png&color=000000" alt="email" />
     </a>
-    <a href="https://www.freelancermap.de/profil/david-konczewski" target="_blank" title="Profil von David Konczewski auf www.freelancermap.de">
+    <a style="text-decoration:none" href="https://www.freelancermap.de/profil/david-konczewski" target="_blank" title="Profil von David Konczewski auf www.freelancermap.de">
         <img alt="freelancermap" loading="lazy" style="vertical-align:middle;width:118px; height:45px" src="https://www.freelancermap.de/assets/logo/logo-black.svg">
     </a>
-    <a href="https://www.linkedin.com/in/david-konczewski-868a90295/">
+    <a style="text-decoration:none" href="https://www.linkedin.com/in/david-konczewski-868a90295/">
       <img style="height: 45px; vertical-align: middle"  src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" />
     </a>
 </div>
 
 ## Tech Focus
-<div> 
-    <!-- PHP --> 
-    <a href="https://www.php.net/" target="_blank"> 
+<div>
+    <a style="text-decoration:none" href="https://www.php.net/" target="_blank"> 
         <img style="height: 45px; vertical-align: middle"  src="https://img.icons8.com/?size=100&id=YrKoPXb4jv9l&format=png&color=000000" alt="PHP" /> 
     </a>
-    <!-- Laravel-->
-    <a href="https://laravel.com/" target="_blank"> 
+    <a style="text-decoration:none" href="https://laravel.com/" target="_blank"> 
         <img style="height: 45px; vertical-align: middle"  src="https://img.icons8.com/?size=100&id=lRjcvhvtR81o&format=png&color=000000" alt="Laravel" /> 
     </a>
-    <!-- TYPO3 -->
-    <a href="https://typo3.org/" target="_blank"> 
+    <a style="text-decoration:none" href="https://typo3.org/" target="_blank"> 
         <img style="height: 45px; vertical-align: middle"  src="https://img.icons8.com/?size=100&id=7o-rQFFVp0bG&format=png&color=000000" alt="TYPO3" /> 
     </a>
-    <!-- JavaScript --> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <a style="text-decoration:none" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img style="height: 45px; vertical-align: middle" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" /> 
     </a>
-    <!-- nextjs-->
-    <a href="https://nextjs.org/" target="_blank"> 
+    <a style="text-decoration:none" href="https://nextjs.org/" target="_blank"> 
         <img style="height: 45px; vertical-align: middle"  src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="nextjs" /> 
     </a>
-    <!-- Nginx --> 
-    <a href="https://www.nginx.com/" target="_blank"> 
+    <a style="text-decoration:none" href="https://www.nginx.com/" target="_blank"> 
         <img style="height: 45px; vertical-align: middle"  src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" alt="Nginx" /> 
     </a>
     
@@ -69,20 +63,15 @@ Let’s connect and build something great together!
 
 ### Tools & Frameworks
 <div>
-<!-- PHPStorm --> 
-<a href="https://www.jetbrains.com/phpstorm/" target="_blank">
-<img style="height: 45px; vertical-align: middle" src="https://files.vikingcodes.com/sdfjkl3LklKLCDFBedf45d.png" alt="PHPStorm" />
-</a> 
-
-<!-- GitHub --> 
-<a href="https://github.com/wurstfingersalat" target="_blank"> 
-<img style="height: 45px; vertical-align: middle" src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="GitHub" />
-</a> 
-
-<!-- GitLab --> 
-<a href="https://gitlab.com/wurstfingersalat" target="_blank"> 
-<img style="height: 45px; vertical-align: middle" src="https://img.icons8.com/?size=100&id=34886&format=png&color=000000" alt="GitLab" />
-</a> 
+    <a style="text-decoration:none" href="https://www.jetbrains.com/phpstorm/" target="_blank">
+        <img style="height: 45px; vertical-align: middle" src="https://files.vikingcodes.com/sdfjkl3LklKLCDFBedf45d.png" alt="PHPStorm" />
+    </a>
+    <a style="text-decoration:none" href="https://github.com/wurstfingersalat" target="_blank"> 
+        <img style="height: 45px; vertical-align: middle" src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="GitHub" />
+    </a>
+    <a style="text-decoration:none" href="https://gitlab.com/wurstfingersalat" target="_blank"> 
+        <img style="height: 45px; vertical-align: middle" src="https://img.icons8.com/?size=100&id=34886&format=png&color=000000" alt="GitLab" />
+    </a> 
 </div>
 
 
